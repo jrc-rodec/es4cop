@@ -8,9 +8,8 @@
 <p style="text-align:center;font-size: 17pt">Josef Ressel Centre for Robust Decision Making, Vorarlberg University of Applied Sciences, Dornbirn, Austria.</p>
 
 <br>
-<img src="CDGlogo.png" align="right" class="center" width=25%>
-<p style="text-align:center;font-size: 14pt">The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged.</p>
-<img src="CDGlogo.png" align="right" class="center" width=25%>
+
+<p style="text-align:center;font-size: 14pt">The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged. <img src="CDGlogo.png" align="right" class="center" width=25%></p>
 <br>
 <br>
 <br>
