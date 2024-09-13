@@ -1,5 +1,5 @@
  
-<img src="img/FHVlogo.PNG" align="right" style="display: block; margin: auto;" width=30%>
+<img src="img/FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%>
 
 <h2>Introduction to Evolution Strategies for  Constrained Optimization Prolems </h2>
 <br>  
@@ -21,4 +21,4 @@ Go to: [https://github.com/jrc-rodec/es4cop](https://github.com/jrc-rodec/es4cop
 <br>
 
 Have fun <br>
-<img src="img/test-combi_t.png" align="right" class="center" width=25%>
+<img src="img/test-combi_t.png" align="left" class="center" width=25%>
