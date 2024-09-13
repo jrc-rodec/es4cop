@@ -20,5 +20,5 @@ Please find the experimentation sources in the `main` branch of this repository.
 Go to: [https://github.com/jrc-rodec/es4cop](https://github.com/jrc-rodec/es4cop)
 <br>
 
-Have fun <br>
-<img src="./img/test-combi_t.png" align="left" class="center" width=25%>
+Have fun! <br>
+<img src="./img/test-combi_t.png" align="left" class="center" width=30%>
