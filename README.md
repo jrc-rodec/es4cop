@@ -1,7 +1,7 @@
  
 <img src="img/FHVlogo.png" align="right" width="300">
 <br>
-## Tutorial:
+<h2>Tutorial:</h2>
 <h1>Introduction to Evolution Strategies for  Constrained Optimization Problems </h1>
 <br>  
 <p style="text-align:center;font-size: 22pt">Michael Hellwig, Steffen Finck, and Hans-Georg Beyer</p>
