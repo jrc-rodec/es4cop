@@ -1,5 +1,5 @@
 <figure>
-    <img src="images/FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%>
+    <img src="FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%>
 </figure>
 <br>
   
@@ -10,7 +10,7 @@
 
 <br>
 <figure>
-    <img src="images/CDGlogo.png" align="right" class="center" width=25%>
+    <img src="CDGlogo.png" align="right" class="center" width=25%>
     <figcaption>The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged.
     </figcaption>
 </figure>  
