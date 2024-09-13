@@ -1,4 +1,4 @@
-<html>
+ 
 <figure><img src="FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%></figure>
 <br>
   
@@ -14,4 +14,5 @@
     <figcaption>The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged.
     </figcaption>
 </figure>  
-</html>
+ ![ dgff](CDGlogo.png)
+
