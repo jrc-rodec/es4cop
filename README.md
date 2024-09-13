@@ -1,8 +1,8 @@
  
 <figure><img src="/FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%></figure>
 <br>
-  
-<h1>Introduction to Evolution Strategies for  Constrained Optimization Prolems </h1>
+![FHVlogo.png](FHVlogo.png)
+<h2>Introduction to Evolution Strategies for  Constrained Optimization Prolems </h2>
 <br>  
 <p style="text-align:center;font-size: 19pt">Michael Hellwig, Steffen Finck, and Hans-Georg Beyer</p>
 <br>
