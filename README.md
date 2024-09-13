@@ -1,19 +1,16 @@
  
-<p><figure><img src="/FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%></figure></p>
+<img src="/FHVlogo.png" align="right" style="display: block; margin: auto;" width=30%>
 
 <h2>Introduction to Evolution Strategies for  Constrained Optimization Prolems </h2>
 <br>  
 <p style="text-align:center;font-size: 19pt">Michael Hellwig, Steffen Finck, and Hans-Georg Beyer</p>
 <br>
-<p style="text-align:center;font-size: 16pt">Josef Ressel Centre for Robust Decision Making, Vorarlberg University of Applied Sciences, Dornbirn, Austria.</p>
+<p style="text-align:center;font-size: 17pt">Josef Ressel Centre for Robust Decision Making, Vorarlberg University of Applied Sciences, Dornbirn, Austria.</p>
 
 <br>
-<figure>
-    <img src="CDGlogo.png" align="right" class="center" width=25%>
-    <figcaption>The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged.
-    </figcaption>
-</figure>  
-
+<img src="CDGlogo.png" align="right" class="center" width=25%>
+<p style="text-align:center;font-size: 14pt">The financial support by the Austrian Federal Ministry of Labour and Economy, the National Foundation for Research, Technology and Development and by the Christian Doppler Research Association is gratefully acknowledged.</p>
+<img src="CDGlogo.png" align="right" class="center" width=25%>
 <br>
 <br>
 <br>
