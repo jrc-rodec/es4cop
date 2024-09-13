@@ -21,4 +21,4 @@ Go to: [https://github.com/jrc-rodec/es4cop](https://github.com/jrc-rodec/es4cop
 <br>
 
 Have fun! <br>
-<img src="https://github.com/jrc-rodec/es4cop/blob/es4cop-pages/img/test-combi_t.png" align="left" class="center" width=30%>
+<img src="https://raw.githubusercontent.com/jrc-rodec/es4cop/blob/es4cop-pages/img/test-combi_t.png" align="left" class="center" width=30%>
