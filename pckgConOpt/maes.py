@@ -214,7 +214,15 @@ def MAES(yInit,mu,lam,sigma,maxIter,budget,objFun,lower_bounds,upper_bounds,bch)
 
 
 ################# epsMAg-ES #################################################################
-
+#############################################################################################
+###  #######
+###  #######
+###  #######
+###  #######
+############
+###  #######
+############ REMARK: This implementation is still buggy! It will be updated soon! ###########
+#############################################################################################
 def epsMAgES(mu,lam,sigma,lower_bounds,upper_bounds,delta,maxIter,budget,max_reps,objFun):
 # Implementation of the epsilonMAg-ES for constrained optimiazation
 # according to
