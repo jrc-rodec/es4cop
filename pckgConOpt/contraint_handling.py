@@ -58,8 +58,9 @@ def eps_sort(fv,cv,epsilon):
 #####
 # gradient-based repair
 
-def gradientMutation(y,gg,hh):
+def gradientMutation(yy,gg,hh):
     # preset parameters of forward differences approach for Jacobian approximation
+    y = yy.copy()
     eta     = 1e-4;                            
     dim  = np.size(y)
     # create vector of constraint-wise constraint violations
