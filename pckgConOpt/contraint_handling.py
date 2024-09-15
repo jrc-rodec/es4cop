@@ -3,7 +3,8 @@
 import numpy as np
 
 # bound constraint handling by reflecting back into the feasible box
-def keep_range(y,lower_bounds,upper_bounds):
+def keep_range(yy,lower_bounds,upper_bounds):
+    y=yy.copy()
     bwidth =  upper_bounds -  lower_bounds
     n=np.size(y);
     for i in range(n):
@@ -33,7 +34,9 @@ def eps_rank(f1,cv1,f2,cv2,epsilon):
     return z
 
 # main routine:
-def eps_sort(fit,cvio,epsilon):
+def eps_sort(fv,cv,epsilon):
+    fit=fv.copy()
+    cvio=cv.copy()
     n = np.size(fit)
     ind = np.linspace(0,n-1,n)
     for k in range(n-1):
