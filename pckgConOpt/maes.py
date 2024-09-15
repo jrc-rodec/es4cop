@@ -3,7 +3,8 @@
 import numpy as np
 
 # bound constraint handling by reflecting back into the feasible box
-def keep_range(y,lower_bounds,upper_bounds):
+def keep_range(yy,lower_bounds,upper_bounds):
+    y=yy.copy()
     bwidth =  upper_bounds -  lower_bounds
     n=np.size(y)
     for i in range(n):
@@ -57,8 +58,9 @@ def eps_sort(ffv,ccv,epsilon):
 #####
 # gradient-based repair
 
-def gradientMutation(y,gg,hh,objFun):
+def gradientMutation(yy,gg,hh,objFun):
     # preset parameters of forward differences approach for Jacobian approximation
+    y=yy.copy()
     eta  = 1e-4;         # learning rate for Jacobian approx.                   
     dim  = np.size(y)
     # create vector of constraint-wise constraint violations
@@ -214,14 +216,7 @@ def MAES(yInit,mu,lam,sigma,maxIter,budget,objFun,lower_bounds,upper_bounds,bch)
 
 
 ################# epsMAg-ES #################################################################
-#############################################################################################
-###  #######
-###  #######
-###  #######
-###  #######
-############
-###  #######
-############ REMARK: This implementation is still buggy! It will be updated soon! ###########
+############  BUG fixed!!! ###########
 #############################################################################################
 def epsMAgES(mu,lam,sigma,lower_bounds,upper_bounds,delta,maxIter,budget,max_reps,objFun):
 # Implementation of the epsilonMAg-ES for constrained optimiazation
