@@ -13,4 +13,4 @@ The resources for the experiments are provided in the py-files `maes.py` and `te
 - `text-functions.py` contains the COP formulations 
 - `maes.py` contains the two variants of the MA-ES and various constraint handling routines
 <br>
-Usage is demonstrated in the Jupyter notebook templates `MAES-template.ipynb` and `eMAES-template.ipynb`.
+Usage is demonstrated in the Jupyter notebook templates `MAES-template.ipynb`, `MAES-template-interactive.ipynb` and `eMAES-template.ipynb`.
